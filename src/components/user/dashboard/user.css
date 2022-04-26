@@ -1,0 +1,20 @@
+.container {
+    margin-top: 80px;
+}
+
+.prof-pic-div {
+	float: left;
+}
+
+.prof-pic {
+	border-radius: 50%;
+	height: 200px;
+
+}
+
+.profile {
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+}
